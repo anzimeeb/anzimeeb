@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Photobooth**
 
-- 👨‍💻 All of my projects are available at [github](github)
-
 - 💬 Ask me about **react, inertia, js**
 
 - 📫 How to reach me **anzimee.bernardoo@gmail.com**
