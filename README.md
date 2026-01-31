@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm zi</h1>
-<h3 align="center">A passionate fullstack developer, eme</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzimeeb&label=Profile%20views&color=0e75b6&style=flat" alt="anzimeeb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzimeeb" alt="anzimeeb" /></a> </p>
-
-- 🔭 I’m currently working on **CLMMS**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Photobooth**
-
-- 💬 Ask me about **react, inertia, js**
 
 - 📫 How to reach me **anzimee.bernardoo@gmail.com**
 
